@@ -1,0 +1,18 @@
+<isis-adjacency-information>
+<isis-adjacency>
+    <interface-name>xe-0/0/2:0.0</interface-name>
+    <system-name>st-48s-p2-31</system-name>
+    <level>1</level>
+    <adjacency-state>Up</adjacency-state>
+    <holdtime>8</holdtime>
+    <snpa>88:e0:f3:1c:a0:7</snpa>
+</isis-adjacency>
+<isis-adjacency>
+    <interface-name>xe-0/0/2:0.0</interface-name>
+    <system-name>st-48s-p2-31</system-name>
+    <level>2</level>
+    <adjacency-state>Up</adjacency-state>
+    <holdtime>6</holdtime>
+    <snpa>88:e0:f3:1c:a0:7</snpa>
+</isis-adjacency>
+</isis-adjacency-information>
